@@ -1,0 +1,36 @@
+.header{
+    text-align: center;
+    text-size-adjust: 30Px;
+    background-color: yellow;
+    height: 100px;
+    padding: 30px;
+}
+.menu{
+    background-color: aqua;
+    
+}
+
+nav{
+    text-align: center;
+   padding: 20px;
+}
+nav>a{
+    padding-left: 10%;
+}
+.profile {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.profile>img{
+    border: 2px double black;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    justify-self: center;
+  
+}
